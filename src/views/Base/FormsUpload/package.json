@@ -1,0 +1,6 @@
+{
+  "name": "FormsUpload",
+  "version": "0.0.0",
+  "private": true,
+  "main": "./FormsUpload.js"
+}

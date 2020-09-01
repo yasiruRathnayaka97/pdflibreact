@@ -1,0 +1,17 @@
+<svg width="707.1" height="200" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <filter id="svg_23_blur">
+   <feGaussianBlur stdDeviation="0" in="SourceGraphic"/>
+  </filter>
+ </defs>
+ <g>
+  <title>background</title>
+  <rect fill="none" id="canvas_background" height="602" width="802" y="-1" x="-1"/>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <text font-weight="bold" transform="matrix(4.38059, 0, 0, 3.89497, -1761.05, -402.362)" stroke-dasharray="5,2,2,2" xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="24" id="svg_19" y="137.60741" x="442.74099" stroke-opacity="null" stroke-width="0" stroke="#FFFFFF" fill="#9361e2">PDF</text>
+  <text filter="url(#svg_23_blur)" font-weight="bold" font-style="italic" opacity="0.66" transform="matrix(2.72909, 0, 0, 3.13429, -755.307, -201.517)" stroke-dasharray="5,2,2,2" xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="24" id="svg_23" y="106.34608" x="420.53481" stroke-opacity="null" stroke-width="0" stroke="#FFFFFF" fill="#000000">LIBRARY</text>
+  <path opacity="0.7" id="svg_24" d="m17.27258,140.48684c-0.04849,-44.03299 -0.09696,-88.06599 -0.14545,-132.09897c43.77757,0.50609 87.74081,-1.19892 131.37015,1.29957c21.27563,5.70682 18.20951,41.23247 17.86401,67.76737c-0.9333,20.01058 12.43065,59.67915 -22.28015,65.64168c-17.30519,0.0007 -17.3733,5.58668 -15.60694,15.69137c2.04984,15.13811 -3.90102,49.04939 -32.32939,27.55517l-78.87224,-45.85619l0.00001,-0.00001zm133.98048,-14.39437c0.07034,-39.58002 -0.51643,-73.34748 -3.42076,-99.42505c-25.80487,-8.87024 -60.67442,-4.55347 -89.87119,-4.68827c-11.47718,4.21853 27.22576,18.22608 35.43429,23.66125c31.16252,11.68646 40.46007,32.93943 35.07888,56.95842c0,9.34328 0,18.68659 0,28.02987c5.74665,-0.00525 17.63559,-2.15696 22.77879,-4.53625l-0.00001,0.00002z" stroke-opacity="null" stroke-width="0" stroke="#FFFFFF" fill="#24043f"/>
+ </g>
+</svg>

@@ -1,0 +1,7 @@
+{
+    "name": "AlertsSearch",
+    "version": "0.0.0",
+    "private": true,
+    "main": "./AlertsSearch.js"
+  }
+  
